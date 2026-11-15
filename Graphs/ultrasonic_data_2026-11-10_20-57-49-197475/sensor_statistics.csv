@@ -1,0 +1,3 @@
+session_id,actual_cm,mean_measured,std_dev,total_readings,valid_readings,mean_error,missing_readings,missing_rate_percent
+20261110_205749_197475,5,,,100,0,,100,100.0
+20261110_205749_197475,10,,,44,0,,44,100.0
